@@ -12,5 +12,8 @@
             "email": "levitanoff@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.8"
+    }
 }
